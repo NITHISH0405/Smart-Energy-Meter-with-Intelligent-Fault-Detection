@@ -83,6 +83,3 @@ The collected dataset is divided into training and testing data. After training 
 * Improved AI-based load classification
 
 
-
-**Project:** Smart Energy Meter with AI-Based Fault Detection
-**Department:** Electrical and Electronics Engineering
