@@ -81,5 +81,6 @@ The collected dataset is divided into training and testing data. After training 
 * Predictive maintenance
 * Smart home integration
 * Improved AI-based load classification
+Note: If you are using my code for your project. Kindly make sure that the PICKLE files and data sets are in the same folder for the code execution.
 
 
